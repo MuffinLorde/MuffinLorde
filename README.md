@@ -12,4 +12,8 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/Python.png"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/node(png).png"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/git.png"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/react.png"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/react.png"/> </br>
+
+---
+### Stats
+![Muffin-Lorde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muffin-Lorde&show_icons=true&theme=gotham)
