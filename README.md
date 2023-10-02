@@ -17,3 +17,10 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 ---
 ### Stats
 ![Muffin-Lorde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muffin-Lorde&show_icons=true&theme=gotham)
+
+---
+
+## 📞 Contact me
+### Discord:    Muffin___Lorde
+### Website:    It's down for now, sorry 😔
+### Email:      scromskeom@gmail.com
