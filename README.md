@@ -1,4 +1,4 @@
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/banner.png"/>
+<img align="left" alt="JavaScript" src="./icons/banner.png"/>
 
 # Muffin-Lorde
 
