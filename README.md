@@ -14,3 +14,4 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 ### Tools
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/node(png).png"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/git.png"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/react.png"/>
