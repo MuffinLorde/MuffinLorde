@@ -21,5 +21,5 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 ---
 
 ## 📞 Contact me
-### Discord:    Muffin___Lorde
-### Website:    It's down for now, sorry 😔
+**Discord:    Muffin___Lorde**
+**Website:    It's down for now, sorry 😔**
