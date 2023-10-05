@@ -14,7 +14,8 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="./icons/node(png).png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/git.png"/>
 <img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="./icons/electron logo.png"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="./icons/react.png"/> </br>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="./icons/react.png"/>
+<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="./icons/dotnet-logo.png"/> </br>
 
 ---
 ### Stats
