@@ -30,5 +30,6 @@ let roleModels = ['Forrest Knight', 'Luke Pristol'];
 ---
 
 ## 📞 Contact me
-**Discord:    Muffin___Lorde** </br>
+**Discord:    SoapyTheToast** </br>
+**Email  :    soapythetoast@gmail.com** </br>
 **Website:    It's down for now, sorry 😔**
