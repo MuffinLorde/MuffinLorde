@@ -15,7 +15,6 @@ let roleModels = ['Forrest Knight', 'Luke Pristol'];
 ### 🛠️ Tools and Languages
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/Javascript.png"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="./icons/HTML.png"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="./icons/Python.png"/>
 <img align="left" alt="c#" width="30px" style="padding-right:10px;" src="./icons/C sharp icon.png"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/git.png"/>
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="./icons/node(png).png"/>
