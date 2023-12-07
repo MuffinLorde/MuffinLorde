@@ -8,18 +8,16 @@ let name = 'Lorde Muffin';
 let age = 15;
 let pronouns = 'he/him';
 let homeCountry = 'South Africa';
-let skills = ['Javasxript', 'HTML', 'Python', 'c#'];
+let skills = ['Javascript', 'HTML', 'Python', 'c#'];
 let roleModels = ['Forrest Knight', 'Luke Pristol'];
+let favouriteQuote = "Everyone is a genius but if you judge a fish by its ability to climb a tree, it will live its whole life thinking it is stupid - Albert Einstein";
 ```
 
 ### 🛠️ Tools and Languages
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://github.com/SoapyTheToast/coding-icons/blob/main/programming%20languages/Python.png"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="./icons/Javascript.png"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="./icons/HTML.png"/>
 <img align="left" alt="c#" width="30px" style="padding-right:10px;" src="./icons/C sharp icon.png"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="./icons/git.png"/>
-<img align="left" alt="Node" width="30px" style="padding-right:10px;" src="./icons/node(png).png"/>
-<img align="left" alt="Electron" width="30px" style="padding-right:10px;" src="./icons/electron logo.png"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="./icons/react.png"/>
 <img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="./icons/dotnet-logo.png"/> </br>
 
 ---
