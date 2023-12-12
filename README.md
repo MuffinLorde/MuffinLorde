@@ -13,13 +13,11 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 ### Stats
 <p align="center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=SoapyTheToast&show_icons=true&theme=gotham&line_height=27"> </br>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SoapyTheToast&show_icons=true&locale=en&layout=compact&theme=gotham&line_height=0" /> </br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoapyTheToast&hide=html,css,java,shaderlab,kotlin,hlsl&theme=gotham"> </br>
 </p>
 
 
 ---
 
 ## 📞 Contact me
-**Discord:    SoapyTheToast** </br>
-**Email  :    soapythetoast@gmail.com** </br>
+<img align="left" width=250px alt="Discord" width="30px" style="padding-right:10px;" src="https://github.com/SoapyTheToast/SoapyTheToast/blob/main/icons/discord-soapythetoast.svg"/>
+<img align="left" width=300px alt="Email" style="padding-right:10px;" src="https://github.com/SoapyTheToast/SoapyTheToast/blob/main/icons/email-scromskrom%40gmail.com.svg"/>
