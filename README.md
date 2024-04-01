@@ -16,4 +16,4 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 ---
 
 <img align="left" width=250px alt="Discord" style="padding-right:10px;" src="https://img.shields.io/badge/MuffinLord3-Discord?style=for-the-badge&logo=Discord&logoColor=white&color=black"/>
-<img align="left" width=410px alt="Email" style="padding-right:10px;" src="https://img.shields.io/badge/lordemuffin%40gmail.com-Gmail?style=for-the-badge&logo=Gmail&logoColor=white&color=black"/>
+<img align="left" width=400px alt="Email" style="padding-right:10px;" src="https://img.shields.io/badge/lordemuffin%40gmail.com-Gmail?style=for-the-badge&logo=Gmail&logoColor=white&color=black"/>
