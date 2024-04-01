@@ -1,5 +1,5 @@
 # MuffinLorde
-Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself while I'm still in highschool. My dream job is being a computer engineer. I love to code in my free time, and love technology in general. <br>
+Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself while I'm still in highschool. My dream job is being a computer engineer (not software engineer). I love to code in my free time, and love technology in general. <br>
 
 ### 🛠️ Tools and Languages
 
