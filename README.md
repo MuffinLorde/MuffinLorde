@@ -10,7 +10,7 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 ---
 <img width=100px alt="Stats" style="padding-right:10px;" src="https://img.shields.io/badge/Stats%20-%20additional?style=for-the-badge&color=black"/>
 <p align="center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=MuffinLorde&show_icons=true&theme=gotham&line_height=27"> </br>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=MuffinLorde&show_icons=true&theme=dark&line_height=27"> </br>
 </p>
 
 
