@@ -9,6 +9,7 @@ hobby = 'programming and tinkering with computers'
 
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://github.com/SoapyTheToast/coding-icons/blob/main/programming%20languages/Python.png"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/icons/C.png"/>
+<img align="left" alt="GIT" width="30px" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/icons/git.png"/>
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/icons/windows%20logo.png"/></br>
 
 ---
