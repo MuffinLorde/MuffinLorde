@@ -5,7 +5,8 @@ Hey There 👋🏽. I'm a 15 year old full stack developer, self-teaching myself
 
 <img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://github.com/SoapyTheToast/coding-icons/blob/main/programming%20languages/Python.png"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/icons/C.png"/>
-<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/icons/windows%20logo.png"/></br>
+<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/icons/windows%20logo.png"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/icons/linux%20logo.png"/></br>
 
 ---
 ### 📊 Stats
