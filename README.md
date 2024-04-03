@@ -7,7 +7,7 @@ hobby = 'programming and tinkering with computers'
 
 <img  width=250px alt="Tools_and_Languages" style="padding-right:10px;" src="https://img.shields.io/badge/Tools%20%26%20Languages%20-%20additional?style=for-the-badge&color=black"/>
 
-<img  src = "https://skillicons.dev/icons?i=python,c,html,css,js,vscode&theme=dark"><br>
+<img  src = "https://skillicons.dev/icons?i=python,c,html,css,lua,js,git,github,vscode&theme=dark"><br>
 
 ---
 <img width=100px alt="Stats" style="padding-right:10px;" src="https://img.shields.io/badge/Stats%20-%20additional?style=for-the-badge&color=black"/>
