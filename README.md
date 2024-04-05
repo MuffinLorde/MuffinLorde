@@ -3,7 +3,6 @@
 age = 15
 dream_job = 'computer engineer'
 hobby = 'programming and tinkering with computers'
-fact_about_me = 'I have a blog'
 ```
 
 <img  width=250px alt="Tools_and_Languages" style="padding-right:10px;" src="https://img.shields.io/badge/Tools%20%26%20Languages%20-%20additional?style=for-the-badge&color=black"/>
