@@ -1,4 +1,4 @@
-<img  width=1000px alt="Tools_and_Languages" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/minecraft_title.png"/>
+<img  width=1000px alt="Tools_and_Languages" style="padding-right:10px;" src="https://github.com/MuffinLorde/MuffinLorde/blob/main/model_MuffinLordel.png"/>
 
 # MuffinLorde
 ```python
