@@ -7,7 +7,7 @@ dream_job = 'computer engineer'
 hobby = 'programming and tinkering with computers'
 ```
 
-<img  src = "https://skillicons.dev/icons?i=python,c,rust,git,github,vscode&theme=dark"><br>
+<img  src = "https://skillicons.dev/icons?i=python,c,go,git,github,vscode&theme=dark"><br>
 
 
 ---
