@@ -1,8 +1,8 @@
 # MuffinLorde
-```go
-var age int = 15
-var dream_job string = 'computer engineer'
-var hobby string = 'programming and tinkering with computers'
+```c
+int age[4] = 15
+char dream_job[100] = "computer engineer"
+char hobby[100] = "programming and tinkering with computers"
 ```
 
 <img  src = "https://skillicons.dev/icons?i=python,c,go,git,github,vscode&theme=dark"><br>
