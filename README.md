@@ -1,8 +1,8 @@
 # MuffinLorde
 ```c
 int age[2] = 16
-char dream_job[100] = "computer engineer"
-char hobby[100] = "programming and tinkering with computers"
+char dream_job[64] = "computer engineer"
+char hobby[256] = "programming and tinkering with computers"
 ```
 
 <img  src = "https://skillicons.dev/icons?i=python,c,go,git,github,vscode&theme=dark"><br>
