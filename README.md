@@ -1,6 +1,6 @@
 # MuffinLorde
 ```c
-int age[4] = 15
+int age[2] = 16
 char dream_job[100] = "computer engineer"
 char hobby[100] = "programming and tinkering with computers"
 ```
